@@ -1441,6 +1441,13 @@ section {
   vertical-align: middle;
 }
 
+#contact .wa .info-box p:hover {
+  background: #00B900;
+  border-color: #436aaf;
+  color: white;
+  transform: scale(1.2);
+}
+
 #contact #social ul {
   text-align: center;
   padding-left: 0px;
@@ -2344,7 +2351,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #4a5562;
+  background: #080a09;
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
